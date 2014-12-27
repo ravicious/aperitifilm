@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+Aperitifilm.run %w(username1 username2 username3)
+```
 
 ## Contributing
 
