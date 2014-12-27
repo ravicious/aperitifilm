@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Rafał Cieślak"]
   spec.email         = ["ravicious@gmail.com"]
   spec.summary       = %q{Let's you see which movies you and your friends on Filmweb would like to watch the most together.}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/ravicious/aperitifilm"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
